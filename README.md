@@ -1,5 +1,8 @@
 # Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 
+In this project we worked through reading in an article and then using NLP to count lemmas and tokens.  I counted the top 5 of each.  Then I ran that against a scoring function.  This calucations how many lemmas or tokens were in each setence then divided by the number of words.  This scoring was completed against each setence of the article.  Then I plotted the results in a histogram for both tokens and lemmas.
+
+
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
